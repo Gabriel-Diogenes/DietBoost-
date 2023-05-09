@@ -4,9 +4,8 @@
 
 * Gabriel Alves da Silva Diógenes
 * Gabriel Felipe Lopes de Barros
-* Igor Eduardo Costa Silva
-* Lucas Morato de Oliveira Xavier
-* Paulo Tasso Antunes Leão
+* Rafael Coelho de Mendonça
+* Thiago Cardozo
 
 ## Professores responsáveis
 
