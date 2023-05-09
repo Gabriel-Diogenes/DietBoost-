@@ -1,7 +1,5 @@
 # DietBoost-
 
-
-
 ## Alunos integrantes da equipe
 
 * Gabriel Alves da Silva Diógenes
